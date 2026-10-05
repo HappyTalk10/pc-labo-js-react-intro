@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 第1回 | 変数・型・条件分岐・ループ・関数 | `01_javascript-basics` |
 | 第2回 | Reactで頻出するJavaScript | `02_javascript-for-react` |
-| 第3回 | React入門 | `03_react-basics`（準備中） |
+| 第3回 | React入門 | `03_react-basics` |
 
 ## 使い方
 
